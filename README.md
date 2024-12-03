@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Avoy Baruah</h1>
 <h3 align="center">Aspiring Technologist | Cloud Technology & Information Security Enthusiast | Web Developer | Problem Solver</h3>
