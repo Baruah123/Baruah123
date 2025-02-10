@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvoyBaruah&title=Stars,Commits,Repositories,MultipleLang,Experience,PullRequest&theme=onedark&margin-w=20&no-frame=true)](https://github.com/AvoyBaruah/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Baruah123&title=Stars,Commits,Repositories,MultipleLang,Experience,PullRequest&theme=onedark&margin-w=20&no-frame=true)](https://github.com/Baruah123/github-profile-trophy)
 
 ---
 
@@ -50,13 +50,13 @@
 
 <h3>Stats and Charts</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvoyBaruah&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvoyBaruah&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
