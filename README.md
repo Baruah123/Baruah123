@@ -1,72 +1,68 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Baruah123&title=Stars,Commits,Repositories,MultipleLang,Experience,PullRequest&theme=dracula&margin-w=20&no-frame=true)](https://github.com/Baruah123/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Baruah123&title=Stars,Commits,Repositories,MultipleLang,Experience,PullRequest&theme=flat&margin-w=20&no-frame=true)](https://github.com/Baruah123/github-profile-trophy)
 
 ---
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&color=00FF00&duration=4000&lines=Hello+World!+👾;+I'm+Avoy+Baruah!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=600&height=60&color=2F81F7&duration=4000&lines=Hello+World!+🌍;+I'm+Avoy+Baruah;+Full+Stack+Developer+%7C+Cybersecurity+Enthusiast" />
 </h1>
 
 <h3 align="center">Full Stack Developer | Ethical Hacker | Cybersecurity Enthusiast</h3>
-<p align="center">
-  <img width="400" src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif">
-</p>
 
 <p align="center">
   <a href="https://twitter.com/avoy_dev" target="_blank"><img src="https://img.shields.io/twitter/follow/avoy_dev?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/avoy-baruah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/avoy-baruah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-<hr style="border: 1px solid #00FF00;"> 
-
-<h3>About Me</h3>
-<p>
-    I'm a full-stack developer with a passion for ethical hacking and cybersecurity. I love exploring system vulnerabilities, building secure applications, and constantly pushing the boundaries of tech. I've built dynamic platforms with React, Tailwind, and the MERN stack — and I’m always ready to dive into the matrix. 🟩
-</p>
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| JavaScript | Python | C | HTML | CSS |
-|----------|----------|----------|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"/> |
-
-### Frameworks & Libraries:
-| React | Tailwind | Express.js | Node.js | MongoDB |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/> |
 
 ---
+
+## 👨‍💻 About Me  
+I’m a **Full Stack Developer** with a strong interest in **cybersecurity and ethical hacking**.  
+- 🌱 Skilled in building secure, scalable, and user-friendly web applications.  
+- ⚡ Experienced with the **MERN stack**, modern frontend design, and backend systems.  
+- 🔒 Passionate about creating applications that are both **functional and secure**.  
+- 🚀 Always eager to learn, collaborate, and explore innovative technologies.  
+
+---
+
+## 🛠️ Skills & Tools  
+
+### Languages  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/> 
+</p>
+
+### Frameworks & Libraries  
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </p>
-
----
-
-<h3>Stats and Charts</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&show_icons=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<h3>Let's Connect :mailbox:</h3>
+## 🤝 Connect With Me  
+
 <p align="center">
   <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/avoy_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/avoy-baruah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/avoy_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/avoy-baruah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="500" alt="Matrix code" />
-</p>
-
