@@ -1,77 +1,45 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=AVOY%20BARUAH&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Avoy Baruah - Full Stack Engineer and Application Security" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=650&height=50&color=00b4d8&duration=3000&lines=Full+Stack+Software+Engineer+⚡;Application+Security+Specialist+🛡️;MERN+Stack+Architect+🌐;Building+Secure,+Scalable+Systems+🔒" alt="Typing animation highlighting Full Stack Engineering, MERN Stack, and Security" />
-</p>
-
----
-
-## 💼 Professional Profile
-
-I am a **Full Stack Software Engineer** specializing in the **MERN Stack** and **Application Security (AppSec)**. My core expertise lies in bridging the gap between high-performance web development and robust security architecture. By integrating security early into the SDLC (Software Development Life Cycle), I ensure that applications are not only scalable and user-centric but inherently secure against modern threat vectors.
-
-- 🛡️ **Security Focus:** Auditing and hardening applications against OWASP Top 10 vulnerabilities (XSS, SQLi, CSRF, SSRF).
-- 🚀 **Architecture:** Designing clean, maintainable microservices and RESTful APIs backed by responsive, accessible frontends.
-- ⚙️ **Automation & Scripting:** Utilizing Python and Bash for security tooling, workflow automation, and custom diagnostics.
-- 💬 **Core Interests:** React optimization, secure authentication (JWT/OAuth), penetration testing, and secure-by-design architectures.
-
----
-
-## 🛠️ Technical Stack & Tooling
-
-### **Frontend Engineering**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend, Database & DevOps**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### **Security & Environments**
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Performance Metrics & Diagnostics
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           HERO SECTION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/Baruah123">
-    <img src="https://github-profile-trophy.vercel.app/?username=Baruah123&theme=tokyonight&no-frame=false&margin-w=15&column=4" alt="Avoy Baruah GitHub Trophies" />
-  </a>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00b4d8&height=230&section=header&text=AVOY%20BARUAH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20%7C%20APPLICATION%20SECURITY&descAlignY=60&descSize=18&descColor=94a3b8" />
 
 <br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Avoy Baruah GitHub Commits and Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&layout=compact&theme=tokyonight&hide_border=false" alt="Top programming languages used by Avoy Baruah" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=800&height=45&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;Application+Security+Specialist;Building+Secure+%26+Scalable+Systems;Turning+Ideas+Into+Production+Software" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baruah123&theme=tokyonight&hide_border=false" alt="Avoy Baruah GitHub Contribution Streak" />
-</p>
+<br/><br/>
+
+<a href="https://www.avoybaruah.com">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" />
+</a>
+<a href="https://www.linkedin.com/in/avoy-baruah/">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00b4d8" />
+</a>
+<a href="https://github.com/Baruah123">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="mailto:avoycoc123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+</a>
+
+</div>
 
 ---
 
-## 🤝 Connect & Collaborate
+# 👨‍💻 About Me
 
-I am open to discussions regarding full-stack roles, security consultations, open-source initiatives, and innovative tech collaborations. 
-
-<p align="center">
-  <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Avoy Baruah" /></a>
-  <a href="https://www.linkedin.com/in/avoy-baruah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Avoy Baruah LinkedIn" /></a>
-  <a href="https://twitter.com/avoy_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Avoy Baruah Twitter" /></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Baruah123/Baruah123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  FULL STACK ENGINEER                                                │
+│                                                                      │
+│  I build modern, scalable and secure web applications with a strong │
+│  focus on performance, architecture and application security.       │
+│                                                                      │
+│  My approach combines product-focused frontend engineering with     │
+│  reliable backend systems and security-first development practices.  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
