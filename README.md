@@ -1,150 +1,229 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════
-     AVOY BARUAH — PROFESSIONAL GITHUB PROFILE
-     Full Stack Software Engineer | Web Developer | SEO | Security
+                         AVOY BARUAH
+      Full Stack Software Engineer • Web • SEO • Security • AI
      ═══════════════════════════════════════════════════════════════════════ -->
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     HERO
-     ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ============================== HERO =============================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:083344,100:00b4d8&height=250&section=header&text=AVOY%20BARUAH&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%7C%20WEB%20%7C%20SEO%20%7C%20SECURITY&descAlignY=61&descSize=17&descColor=bae6fd"
-    alt="Avoy Baruah - Full Stack Software Engineer, Web Developer, Technical SEO Expert and Application Security"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:083344,100:00b4d8&height=260&section=header&text=AVOY%20BARUAH&fontSize=74&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER&descAlignY=62&descSize=18&descColor=bae6fd"
+    alt="Avoy Baruah - Full Stack Software Engineer"
   />
 </p>
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     TYPING ANIMATION
-     ═══════════════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Web+Developer+%26+Technical+SEO+Expert;Application+Security+%26+Secure+SDLC;Building+Fast%2C+Secure+%26+Scalable+Systems;Turning+Ideas+Into+Production+Software"
-    alt="Animated professional introduction for Avoy Baruah"
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Web+Developer+%26+Technical+SEO+Expert;Application+Security+%26+Secure+Development;Building+Fast%2C+Secure+%26+Scalable+Systems"
+    alt="Animated technical roles of Avoy Baruah"
   />
-
 </p>
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     PROFILE LINKS
-     ═══════════════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-
   <a href="https://www.avoybaruah.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=googlechrome&logoColor=00b4d8"
-      alt="Avoy Baruah Portfolio"
-    />
+    <img src="https://img.shields.io/badge/PORTFOLIO-020617?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" alt="Avoy Baruah portfolio"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/avoy-baruah/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00b4d8"
-      alt="Avoy Baruah LinkedIn"
-    />
-  </a>
-
   <a href="https://github.com/Baruah123">
-    <img
-      src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff"
-      alt="Avoy Baruah GitHub"
-    />
+    <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=ffffff" alt="Avoy Baruah GitHub"/>
   </a>
-
+  <a href="https://www.linkedin.com/in/avoy-baruah/">
+    <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00b4d8" alt="Avoy Baruah LinkedIn"/>
+  </a>
   <a href="mailto:avoycoc123@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=ea4335"
-      alt="Email Avoy Baruah"
-    />
+    <img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email Avoy Baruah"/>
   </a>
-
 </p>
 
-
 <p align="center">
-
   <img
     src="https://komarev.com/ghpvc/?username=Baruah123&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS"
-    alt="Avoy Baruah GitHub profile views"
+    alt="GitHub profile views"
   />
-
 </p>
 
 
+<!-- ======================== PROFILE SNAPSHOT ========================= -->
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ⚡ ENGINEERING
+
+**Full Stack**
+
+React  
+Next.js  
+Node.js  
+TypeScript
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔐 SECURITY
+
+**Secure Development**
+
+OWASP  
+Auth  
+API Security  
+Secure SDLC
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔎 VISIBILITY
+
+**Technical SEO**
+
+SEO  
+Core Web Vitals  
+Indexation  
+Performance
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
 ---
 
-# 👨‍💻 Professional Profile
+# 👋 About Me
+
+<p align="center">
+
+> **I build digital products that are fast, secure, scalable and built to be found.**
+
+</p>
+
+I'm **Avoy Baruah**, a **Full Stack Software Engineer, Web Developer and Technical SEO practitioner** focused on developing modern digital products.
+
+My work spans:
+
+`Frontend Engineering` · `Backend Development` · `Technical SEO` · `Application Security` · `AI Applications` · `Cloud Deployment`
+
+I like working across the complete lifecycle:
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│  AVOY BARUAH                                                             │
-│  Full Stack Software Engineer | Web Developer | Technical SEO Expert    │
-│                                                                          │
-│  I build modern, scalable and high-performance digital products using   │
-│  modern web technologies with a strong focus on architecture, security, │
-│  search visibility and user experience.                                  │
-│                                                                          │
-│  My work spans frontend engineering, backend development, technical     │
-│  SEO, application security, AI-powered applications and deployment.     │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+IDEA
+  ↓
+ARCHITECTURE
+  ↓
+DEVELOPMENT
+  ↓
+SECURITY
+  ↓
+SEO
+  ↓
+PERFORMANCE
+  ↓
+DEPLOYMENT
 ````
-
-I am a **Full Stack Software Engineer** focused on building modern, secure and scalable web applications.
-
-My core development stack includes **React, Next.js, Node.js, TypeScript, JavaScript, MongoDB, PostgreSQL and Tailwind CSS**, complemented by experience in **technical SEO, application security, cloud deployment and AI-powered applications**.
-
-I enjoy working across the complete development lifecycle:
-
-**Architecture → Development → Security → SEO → Performance → Deployment**
 
 ---
 
-# 🚀 What I Do
+# 🟢 Currently Building
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=1200&color=94A3B8&center=true&vCenter=true&width=850&height=35&lines=Building+modern+Next.js+applications;Improving+technical+SEO+architecture;Experimenting+with+AI-powered+products;Designing+secure+and+scalable+backend+systems"
+alt="Animated current development focus"
+/>
+
+</p>
+
+### Active Focus
+
+* [x] Modern React / Next.js development
+* [x] Technical SEO architecture
+* [x] Responsive UI engineering
+* [x] REST API development
+* [x] Application security practices
+* [ ] Advanced system design
+* [ ] AI-powered product development
+* [ ] Deeper cloud infrastructure
+
+> **Current mindset:** Build better systems, not just more systems.
+
+---
+
+# 🧭 My Engineering Stack
+
+<div align="center">
+
+### FRONTEND
+
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8"
+alt="Frontend engineering technologies"
+/>
+
+### BACKEND & DATA
+
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql&perline=6"
+alt="Backend and database technologies"
+/>
+
+### CLOUD & TOOLING
+
+<img
+src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vercel,cloudflare&perline=7"
+alt="Cloud and development tools"
+/>
+
+</div>
+
+---
+
+# 🧩 What I Specialize In
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚡ Full Stack Engineering
+## ⚡ Full Stack Development
 
-Building complete web applications from frontend interfaces to backend services and databases.
+Building modern production-ready web applications.
 
-* React & Next.js
-* TypeScript & JavaScript
-* Node.js & Express
+* React
+* Next.js
+* TypeScript
+* Node.js
+* Express
 * REST APIs
-* Authentication systems
-* Database architecture
-* Responsive UI
-* API integrations
+* Authentication
+* Database-driven applications
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔎 Technical SEO
+## 🔎 Technical SEO
 
-Engineering websites that are technically optimized for search engines and users.
+Engineering websites for search visibility and performance.
 
 * Technical SEO
-* On-page SEO
-* Core Web Vitals
 * Search Console
-* Indexation
+* Core Web Vitals
 * Structured data
-* XML sitemaps
+* Sitemap architecture
 * Internal linking
-* Image optimization
+* Canonicalization
+* Indexation
 
 </td>
 
@@ -154,36 +233,34 @@ Engineering websites that are technically optimized for search engines and users
 
 <td width="50%" valign="top">
 
-### 🛡️ Application Security
+## 🛡️ Application Security
 
-Applying security principles throughout the software development lifecycle.
+Security-aware software development.
 
 * OWASP Top 10
+* JWT
+* OAuth
 * Authentication
 * Authorization
-* JWT / OAuth
 * API security
 * Input validation
-* XSS prevention
-* CSRF protection
-* Secure development
+* Secure SDLC
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI & Modern Platforms
+## 🤖 AI & Modern Platforms
 
-Developing intelligent and production-oriented digital platforms.
+Building intelligent web products.
 
-* AI integrations
+* AI API integrations
 * AI-powered applications
 * SaaS platforms
-* Authentication
-* Cloud databases
-* File storage
+* Supabase
+* Authentication systems
 * Dashboards
-* API integrations
+* Cloud applications
 
 </td>
 
@@ -192,246 +269,111 @@ Developing intelligent and production-oriented digital platforms.
 
 ---
 
-# 🧠 Engineering Principles
+# 📊 Engineering Metrics
 
 <div align="center">
 
-|   ⚡ Performance  |    🔐 Security   | 🏗️ Architecture |     🎯 UX    |
-| :--------------: | :--------------: | :--------------: | :----------: |
-| Fast & optimized | Secure by design |  Built to scale  | User focused |
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Performance**
+
+Fast interfaces
+Optimized assets
+Core Web Vitals
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**Security**
+
+Secure auth
+Protected APIs
+Input validation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔎
+
+**SEO**
+
+Crawlability
+Indexation
+Search visibility
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+**Scalability**
+
+Clean architecture
+Reusable systems
+Maintainable code
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-> **Build with purpose. Secure by design. Optimize continuously. Scale confidently.**
-
 ---
 
-# 🛠️ Technical Stack
-
-## Frontend Engineering
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8"
-    alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS and Figma" />
-
-</p>
-
-**Languages**
-
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript`
-
-**Frameworks**
-
-`React` · `Next.js`
-
-**UI & Styling**
-
-`Tailwind CSS` · `Responsive Design` · `Component Architecture`
-
-**Design**
-
-`Figma`
-
----
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql&perline=6"
-    alt="Node.js Express Python MongoDB PostgreSQL and MySQL" />
-
-</p>
-
-**Backend**
-
-`Node.js` · `Express.js` · `REST APIs`
-
-**Languages**
-
-`JavaScript` · `TypeScript` · `Python`
-
-**Databases**
-
-`MongoDB` · `PostgreSQL` · `MySQL`
-
----
-
-## Cloud, DevOps & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vercel,cloudflare&perline=7"
-    alt="Git GitHub Linux Docker AWS Vercel and Cloudflare" />
-
-</p>
-
-`Git` · `GitHub` · `Linux` · `Docker` · `AWS` · `Vercel` · `Cloudflare`
-
-### SEO & Development Tools
-
-`Google Search Console` · `Google Analytics` · `Semrush` · `Ahrefs`
-
-`WordPress` · `Sanity` · `Supabase` · `Cloudinary`
-
----
-
-# 🔐 Application Security
-
-My security-focused development approach follows a **secure-by-design mindset**.
+# 🏗️ How I Build
 
 ```text
-                         SECURE SDLC
-
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │    DESIGN     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  ARCHITECTURE │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ AUTHENTICATION│
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ AUTHORIZATION │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  API SECURITY │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ INPUT VALID.  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ TESTING / QA  │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   DEPLOYMENT  │
-                    └───────────────┘
-```
-
-### Security Areas
-
-`OWASP Top 10`
-
-`JWT / OAuth`
-
-`Authentication & Authorization`
-
-`API Security`
-
-`Input Validation`
-
-`XSS Prevention`
-
-`CSRF Protection`
-
-`Injection Prevention`
-
-`Secure API Architecture`
-
----
-
-# 🔎 Technical SEO
-
-I combine **software engineering + technical SEO** to build websites that are fast, crawlable, indexable and optimized for search visibility.
-
-```text
-                         TECHNICAL SEO
-
-                              │
-          ┌───────────────────┼───────────────────┐
-          ▼                   ▼                   ▼
-     CRAWLABILITY          INDEXATION         PERFORMANCE
-          │                   │                   │
-          ▼                   ▼                   ▼
-      Robots.txt          Canonicals        Core Web Vitals
-      XML Sitemap         Redirects         Image Optimization
-      Internal Links      Noindex           Page Speed
-          │                   │                   │
-          └───────────────────┼───────────────────┘
-                              ▼
-                         SEARCH VISIBILITY
-```
-
-### SEO Focus
-
-* Technical SEO
-* On-page optimization
-* Search Console
-* Core Web Vitals
-* Schema markup
-* Canonical architecture
-* Sitemap optimization
-* Internal linking
-* Image SEO
-* Indexation analysis
-* Website performance
-
----
-
-# 🏗️ Development Architecture
-
-```text
-                         PRODUCT IDEA
-                              │
-                              ▼
-                    ┌─────────────────┐
-                    │   REQUIREMENTS  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   ARCHITECTURE  │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              ▼                             ▼
-       ┌─────────────┐               ┌─────────────┐
-       │  FRONTEND   │               │   BACKEND   │
-       │ React/Next  │               │ Node / API  │
-       └──────┬──────┘               └──────┬──────┘
-              │                             │
-              └──────────────┬──────────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │    DATABASE     │
-                    │ Mongo / SQL     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    SECURITY     │
-                    │ Auth / API / QA │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   SEO & SPEED   │
-                    │ CWV / INDEXING  │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   DEPLOYMENT    │
-                    │ Cloud / CDN     │
-                    └─────────────────┘
+                          ┌───────────────────┐
+                          │    PRODUCT IDEA   │
+                          └─────────┬─────────┘
+                                    │
+                                    ▼
+                          ┌───────────────────┐
+                          │    ARCHITECTURE   │
+                          └─────────┬─────────┘
+                                    │
+                    ┌───────────────┴───────────────┐
+                    ▼                               ▼
+          ┌───────────────────┐           ┌───────────────────┐
+          │     FRONTEND      │           │      BACKEND      │
+          │  React / Next.js  │           │ Node.js / APIs    │
+          └─────────┬─────────┘           └─────────┬─────────┘
+                    │                               │
+                    └──────────────┬────────────────┘
+                                   ▼
+                         ┌───────────────────┐
+                         │      DATABASE     │
+                         │ MongoDB / SQL     │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │     SECURITY      │
+                         │ Auth / API / QA   │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │   SEO & SPEED     │
+                         │ CWV / Indexation  │
+                         └─────────┬─────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────┐
+                         │    DEPLOYMENT     │
+                         │ Cloud / CDN       │
+                         └───────────────────┘
 ```
 
 ---
@@ -442,11 +384,9 @@ I combine **software engineering + technical SEO** to build websites that are fa
 
 **Web Developer & SEO Expert**
 
-Working across website development, WordPress development, technical SEO, performance optimization, landing pages and search visibility.
+Working across web development, WordPress, technical SEO, landing pages, performance optimization and search visibility.
 
-**Focus**
-
-`Next.js` · `WordPress` · `SEO` · `JavaScript` · `Performance`
+`Next.js` · `WordPress` · `SEO` · `JavaScript`
 
 ---
 
@@ -454,11 +394,9 @@ Working across website development, WordPress development, technical SEO, perfor
 
 **Full Stack Developer**
 
-Building modern digital experiences and full-stack web applications with an emphasis on premium interfaces, performance and scalable architecture.
+Building modern digital experiences and full-stack applications with a strong focus on UI quality, performance and scalable architecture.
 
-**Focus**
-
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
 ---
 
@@ -466,7 +404,7 @@ Building modern digital experiences and full-stack web applications with an emph
 
 **IT Specialist**
 
-Worked within an enterprise IT environment supporting technology and digital workflows.
+Professional IT experience supporting technology-driven business workflows.
 
 ---
 
@@ -474,11 +412,11 @@ Worked within an enterprise IT environment supporting technology and digital wor
 
 **Technical Intern**
 
-Gained professional experience working in a technical and institutional environment.
+Technical internship experience within a professional institutional environment.
 
 ---
 
-# 🚀 Selected Projects
+# 🚀 Selected Work
 
 <table>
 
@@ -486,29 +424,35 @@ Gained professional experience working in a technical and institutional environm
 
 <td width="50%" valign="top">
 
-### 🌐 R2AN
+## 🌐 R2AN
 
 **Digital Marketing & Creative Agency**
 
-Modern digital agency platform focused on branding, marketing services, performance and online visibility.
+A modern digital presence focused on branding, marketing, performance and online visibility.
 
-**Technology**
+**Stack**
 
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
+`Next.js`
+`TypeScript`
+`Tailwind CSS`
+`Framer Motion`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏥 Suprabhat Healthcare
+## 🏥 Suprabhat Healthcare
 
 **Healthcare Platform**
 
-A modern healthcare-oriented digital platform designed around services, information and user experience.
+A digital healthcare experience focused on information, services and user experience.
 
-**Technology**
+**Stack**
 
-`React` · `Next.js` · `Tailwind CSS` · `SEO`
+`React`
+`Next.js`
+`Tailwind CSS`
+`SEO`
 
 </td>
 
@@ -518,29 +462,35 @@ A modern healthcare-oriented digital platform designed around services, informat
 
 <td width="50%" valign="top">
 
-### 🍖 The BBQ Company Guwahati
+## 🍖 The BBQ Company Guwahati
 
-**Restaurant Website**
+**Restaurant Experience**
 
-A modern restaurant web experience focused on branding, presentation, responsiveness and search visibility.
+A visually focused restaurant website designed around branding, responsiveness and search visibility.
 
-**Technology**
+**Stack**
 
-`Next.js` · `React` · `SEO` · `Responsive UI`
+`Next.js`
+`React`
+`SEO`
+`Responsive UI`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Platforms
+## 🤖 AI Applications
 
-**AI + Full Stack Applications**
+**AI + Full Stack**
 
-Building AI-powered applications combining modern interfaces, authentication, databases and AI APIs.
+Building AI-enabled products combining modern frontend architecture, databases, authentication and AI services.
 
-**Technology**
+**Stack**
 
-`React` · `Next.js` · `AI APIs` · `Supabase`
+`Next.js`
+`React`
+`AI APIs`
+`Supabase`
 
 </td>
 
@@ -550,52 +500,109 @@ Building AI-powered applications combining modern interfaces, authentication, da
 
 ---
 
-# 🌍 Areas of Expertise
+# 🔐 Security Mindset
 
-<div align="center">
+```text
+DESIGN
+  ↓
+THREAT AWARENESS
+  ↓
+SECURE ARCHITECTURE
+  ↓
+AUTHENTICATION
+  ↓
+AUTHORIZATION
+  ↓
+INPUT VALIDATION
+  ↓
+API PROTECTION
+  ↓
+TESTING
+  ↓
+MONITORING
+  ↓
+DEPLOYMENT
+```
 
-### 💻 Full Stack Development
+### Security Focus
 
-Modern frontend, backend and database engineering.
+`OWASP Top 10`
 
-### ⚡ Performance Engineering
+`JWT / OAuth`
 
-Fast, responsive and optimized digital experiences.
+`Authentication`
 
-### 🔎 Technical SEO
+`Authorization`
 
-Search visibility, indexation, structured data and Core Web Vitals.
+`API Security`
 
-### 🛡️ Application Security
+`XSS Prevention`
 
-Security-aware architecture and secure development practices.
+`CSRF Protection`
 
-### 🤖 AI Engineering
+`Injection Prevention`
 
-AI-powered applications and intelligent digital products.
+`Secure APIs`
 
-### ☁️ Cloud Development
-
-Modern deployment and production infrastructure.
-
-</div>
+> Security should be part of the architecture — not an afterthought.
 
 ---
 
-# 📊 GitHub Analytics
+# 🔎 Technical SEO Architecture
+
+```text
+                   SEARCH VISIBILITY
+
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+         CRAWLING    INDEXATION   PERFORMANCE
+             │           │           │
+             ▼           ▼           ▼
+         Robots.txt   Canonicals   Core Web Vitals
+         Sitemap      Redirects    Image Optimization
+         Internal     Noindex      Page Speed
+         Links
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+                  ORGANIC GROWTH
+```
+
+### SEO Toolkit
+
+`Google Search Console`
+
+`Google Analytics`
+
+`Semrush`
+
+`Ahrefs`
+
+`Schema.org`
+
+`XML Sitemap`
+
+`Robots.txt`
+
+`Core Web Vitals`
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
 <img
- width="49%"
- src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
- alt="Avoy Baruah GitHub statistics"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=94a3b8&include_all_commits=true&count_private=true"
+alt="Avoy Baruah GitHub statistics"
 />
 
 <img
- width="49%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
- alt="Avoy Baruah most used programming languages"
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=94a3b8"
+alt="Avoy Baruah top programming languages"
 />
 
 </p>
@@ -603,35 +610,35 @@ Modern deployment and production infrastructure.
 <p align="center">
 
 <img
- width="70%"
- src="https://streak-stats.demolab.com?user=Baruah123&theme=tokyonight&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"
- alt="Avoy Baruah GitHub contribution streak"
+width="68%"
+src="https://streak-stats.demolab.com?user=Baruah123&theme=transparent&hide_border=true&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=94a3b8&dates=64748b"
+alt="Avoy Baruah GitHub contribution streak"
 />
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
 <p align="center">
 
 <img
- src="https://github-profile-trophy.vercel.app/?username=Baruah123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4"
- alt="Avoy Baruah GitHub achievements and trophies"
+src="https://github-profile-trophy.vercel.app/?username=Baruah123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4"
+alt="Avoy Baruah GitHub achievements"
 />
 
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Graph
 
 <p align="center">
 
 <img
- src="https://raw.githubusercontent.com/Baruah123/Baruah123/output/github-contribution-grid-snake.svg"
- alt="Animated GitHub contribution snake graph for Avoy Baruah"
+src="https://raw.githubusercontent.com/Baruah123/Baruah123/output/github-contribution-grid-snake.svg"
+alt="Animated GitHub contribution snake graph for Avoy Baruah"
 />
 
 </p>
@@ -662,41 +669,25 @@ Modern deployment and production infrastructure.
 
 ---
 
-# 📫 Let's Connect
-
-I am open to opportunities and collaborations involving:
-
-**Full Stack Development · Web Development · Technical SEO · Application Security · AI Applications · SaaS · Open Source · Cloud Technologies**
+# 🌐 Find Me Online
 
 <p align="center">
 
-  <a href="https://www.avoybaruah.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617"
-      alt="Visit Avoy Baruah Portfolio"
-    />
-  </a>
+<a href="https://www.avoybaruah.com">
+<img src="https://img.shields.io/badge/Website-020617?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" alt="Avoy Baruah website"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/avoy-baruah/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"
-      alt="Connect with Avoy Baruah on LinkedIn"
-    />
-  </a>
+<a href="https://github.com/Baruah123">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff" alt="Avoy Baruah GitHub"/>
+</a>
 
-  <a href="https://github.com/Baruah123">
-    <img
-      src="https://img.shields.io/badge/GitHub-00B4D8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"
-      alt="Avoy Baruah GitHub profile"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/avoy-baruah/">
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00b4d8" alt="Avoy Baruah LinkedIn"/>
+</a>
 
-  <a href="mailto:avoycoc123@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"
-      alt="Email Avoy Baruah"
-    />
-  </a>
+<a href="mailto:avoycoc123@gmail.com">
+<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email Avoy Baruah"/>
+</a>
 
 </p>
 
@@ -704,42 +695,40 @@ I am open to opportunities and collaborations involving:
 
 <div align="center">
 
-### `BUILD • SECURE • OPTIMIZE • SCALE`
+## `BUILD • SECURE • OPTIMIZE • SCALE`
 
-<br/>
+<br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:083344,70:0f172a,100:020617&height=130&section=footer"
-alt="Avoy Baruah professional GitHub profile footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,30:083344,70:0f172a,100:020617&height=140&section=footer"
+alt="Avoy Baruah GitHub profile footer"
 />
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
-     PROFILE SEARCH TERMS
+                         PROFILE KEYWORDS
 
-     Full Stack Software Engineer
-     Full Stack Developer
-     Web Developer
-     React Developer
-     Next.js Developer
-     Node.js Developer
-     TypeScript Developer
-     JavaScript Developer
-     MERN Stack Developer
-     Application Security
-     Web Security
-     Technical SEO Expert
-     Technical SEO
-     AI Developer
-     Software Engineer
-     Frontend Developer
-     Backend Developer
-     Cloud Developer
-     SEO Developer
-     Guwahati Developer
-     Assam Developer
+ Full Stack Software Engineer
+ Full Stack Developer
+ Web Developer
+ React Developer
+ Next.js Developer
+ Node.js Developer
+ TypeScript Developer
+ JavaScript Developer
+ MERN Stack Developer
+ Application Security
+ Technical SEO Expert
+ Technical SEO
+ SEO Developer
+ AI Developer
+ Frontend Developer
+ Backend Developer
+ Cloud Developer
+ Software Engineer
+ Guwahati Developer
+ Assam Developer
 
      ═══════════════════════════════════════════════════════════════════════ -->
-
 
