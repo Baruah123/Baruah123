@@ -1,12 +1,10 @@
-<div align="center">
-  <h1>Avoy Baruah</h1>
-  <p><b>Full Stack Software Engineer & Application Security Specialist</b></p>
-  <p>
-    <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/avoy-baruah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/avoy_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=AVOY%20BARUAH&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Avoy Baruah - Full Stack Engineer and Application Security" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=650&height=50&color=00b4d8&duration=3000&lines=Full+Stack+Software+Engineer+⚡;Application+Security+Specialist+🛡️;MERN+Stack+Architect+🌐;Building+Secure,+Scalable+Systems+🔒" alt="Typing animation highlighting Full Stack Engineering, MERN Stack, and Security" />
+</p>
 
 ---
 
@@ -45,21 +43,38 @@ I am a Full Stack Software Engineer specializing in the MERN Stack and Applicati
 
 ---
 
-## 📊 Analytics & Contributions
+## 📊 Performance Metrics & Diagnostics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Commits and Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&layout=compact&theme=tokyonight&hide_border=false" alt="Top Programming Languages" width="48%" />
+  <a href="https://github.com/Baruah123">
+    <img src="https://github-profile-trophy.vercel.app/?username=Baruah123&theme=tokyonight&no-frame=false&margin-w=15&column=4" alt="Avoy Baruah GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baruah123&theme=tokyonight&hide_border=false" alt="GitHub Contribution Streak" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Avoy Baruah GitHub Commits and Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baruah123&layout=compact&theme=tokyonight&hide_border=false" alt="Top programming languages used by Avoy Baruah" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baruah123&theme=tokyonight&hide_border=false" alt="Avoy Baruah GitHub Contribution Streak" />
+</p>
 
-<div align="center">
+---
+
+## 🤝 Connect & Collaborate
+
+I am open to discussions regarding full-stack roles, security consultations, open-source initiatives, and innovative tech collaborations. 
+
+<p align="center">
+  <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Avoy Baruah" /></a>
+  <a href="https://www.linkedin.com/in/avoy-baruah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Avoy Baruah LinkedIn" /></a>
+  <a href="https://twitter.com/avoy_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Avoy Baruah Twitter" /></a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Baruah123/Baruah123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> 
-</div>
+</p> 
+  
