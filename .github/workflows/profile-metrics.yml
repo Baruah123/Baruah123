@@ -1,0 +1,73 @@
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Baruah123
+          base: header,activity,community,repositories,metadata
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used,recently-used
+          plugin_languages_details: percentage
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_theme: github-dark
+          config_animations: yes
+          output_action: commit
+
+      - name: Generate language profile
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Baruah123
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size,percentage
+          plugin_languages_other: yes
+          config_theme: github-dark
+          config_animations: yes
+          output_action: commit
+
+      - name: Generate contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Baruah123
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_theme: github-dark
+          config_animations: yes
+          output_action: commit
+
+      - name: Generate recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Baruah123
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+          plugin_activity_timestamps: yes
+          config_theme: github-dark
+          config_animations: yes
+          output_action: commit
