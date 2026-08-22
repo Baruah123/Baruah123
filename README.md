@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Avoy%20Baruah&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AppSec%20Specialist&descAlignY=55&descSize=20" alt="Avoy Baruah - Full Stack Engineer and Application Security" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=AVOY%20BARUAH&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Avoy Baruah - Full Stack Engineer and Application Security" />
 </p>
 
 <p align="center">
-  <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/avoy-baruah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/avoy_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=650&height=50&color=00b4d8&duration=3000&lines=Full+Stack+Software+Engineer+⚡;Application+Security+Specialist+🛡️;MERN+Stack+Architect+🌐;Building+Secure,+Scalable+Systems+🔒" alt="Typing animation highlighting Full Stack Engineering, MERN Stack, and Security" />
 </p>
 
 ---
 
 ## 💼 Professional Summary
 
-I am a Full Stack Software Engineer specializing in the MERN Stack and Application Security (AppSec). I bridge the gap between high-performance web development and robust security architecture. By integrating security early into the Software Development Life Cycle (SDLC), I ensure that applications are highly scalable, user-centric, and inherently secure against modern threat vectors.
+I am a Full Stack Software Engineer specializing in the MERN Stack and Application Security (AppSec). I bridge the gap between high-performance web development and robust security architecture. By integrating security early into the Software Development Life Cycle (SDLC), I ensure that applications are highly scalable, user-centric, and inherently secure against modern threat vector.
 
 ### Core Competencies
 
@@ -45,7 +43,15 @@ I am a Full Stack Software Engineer specializing in the MERN Stack and Applicati
 
 ---
 
-## 📊 Analytics & Contributions
+## 📊 Performance Metrics & Diagnostics
+
+<div align="center">
+  <a href="https://github.com/Baruah123">
+    <img src="https://github-profile-trophy.vercel.app/?username=Baruah123&theme=tokyonight&no-frame=false&margin-w=15&column=4" alt="Avoy Baruah GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Baruah123&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Avoy Baruah GitHub Commits and Stats" />
@@ -56,6 +62,19 @@ I am a Full Stack Software Engineer specializing in the MERN Stack and Applicati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baruah123&theme=tokyonight&hide_border=false" alt="Avoy Baruah GitHub Contribution Streak" />
 </p>
 
+---
+
+## 🤝 Connect & Collaborate
+
+I am open to discussions regarding full-stack roles, security consultations, open-source initiatives, and innovative tech collaborations. 
+
+<p align="center">
+  <a href="mailto:avoycoc123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Avoy Baruah" /></a>
+  <a href="https://www.linkedin.com/in/avoy-baruah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Avoy Baruah LinkedIn" /></a>
+  <a href="https://twitter.com/avoy_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Avoy Baruah Twitter" /></a>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Baruah123/Baruah123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> 
-</p>
+</p> 
+  
