@@ -10,7 +10,7 @@
 
 ## 💼 Professional Summary
 
-I am a Full Stack Software Engineer specializing in the MERN Stack and Application Security (AppSec). I bridge the gap between high-performance web development and robust security architecture. By integrating security early into the Software Development Life Cycle (SDLC), I ensure that applications are highly scalable, user-centric, and inherently secure against modern threat vectors.
+I am a Full Stack Software Engineer specializing in the MERN Stack and Application Security (AppSec). I bridge the gap between high-performance web development and robust security architecture. By integrating security early into the Software Development Life Cycle (SDLC), I ensure that applications are highly scalable, user-centric, and inherently secure against modern threat vector.
 
 ### Core Competencies
 
